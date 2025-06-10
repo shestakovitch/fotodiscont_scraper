@@ -1,5 +1,5 @@
 # Scraper for https://fotodiskont.rs/
-Еhis scraper collects data from the https://fotodiskont.rs/ store.
+This scraper collects data from the https://fotodiskont.rs/ store.
 
 ## Installation
 
